@@ -5,10 +5,10 @@ SpotCSE는 한 문장씩 담긴 텍스트 파일로 문장 임베딩 모델을 �
 
 ## 1. 저장소 받기
 
-아래 `REPOSITORY_URL`을 전달받은 저장소 주소로 바꿔 클론한 뒤 프로젝트 폴더로 이동합니다.
+저장소를 클론한 뒤 프로젝트 폴더로 이동합니다.
 
 ```bash
-git clone REPOSITORY_URL SVD-text-embedding
+git clone https://github.com/bluejun0901/SVD-text-embedding.git SVD-text-embedding
 cd SVD-text-embedding
 ```
 
